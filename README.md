@@ -22,7 +22,7 @@ datascript based CLIs without concern of loading the other libraries.
 
 Install `nbb-logseq` from npm:
 
-`npm install @logseq/nbb-logseq -g`
+`npm install @dom8509/nbb-logseq -g`
 
 Omit `-g` for a local install.
 

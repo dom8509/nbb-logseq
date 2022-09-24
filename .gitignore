@@ -5,3 +5,6 @@ shadow-cljs.edn
 /report.html
 /test/libraries
 .nbb
+.clj-kondo/
+.lsp/
+.DS_Store

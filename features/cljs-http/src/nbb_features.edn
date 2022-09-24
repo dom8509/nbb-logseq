@@ -1,0 +1,7 @@
+[{:name logseq/cljs-http
+  :namespaces [cljs-http.core cljs-http.client]
+  :js "./nbb_cljs_http.js"
+  :shadow-config
+  {:modules
+   {:nbb_cljs_http {:init-fn nbb.impl.cljs-http/init
+                    :depends-on #{:nbb_core :nbb_goog_string}}}}}]

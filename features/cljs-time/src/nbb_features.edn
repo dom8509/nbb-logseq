@@ -4,4 +4,4 @@
   :shadow-config
   {:modules
    {:nbb_cljs_time {:init-fn nbb.impl.cljs-time/init
-                    :depends-on #{:nbb_core :nbb_goog_string}}}}}]
+                    :depends-on #{:nbb_core :nbb_goog_string :nbb_transit}}}}}]
